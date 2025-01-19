@@ -1,0 +1,15 @@
+# Django
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+
+# Node.js
+node_modules/
+
+# VS Code
+.vscode/
+
+# 기타
+.DS_Store
